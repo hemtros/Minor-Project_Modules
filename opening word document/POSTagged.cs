@@ -1,4 +1,7 @@
-﻿using System;
+﻿
+//Displays Nouns and Noun Phrases of Documents with their tag
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

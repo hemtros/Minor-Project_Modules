@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opening word document", "opening word document\opening word document.csproj", "{BF1CFDBC-6281-4E15-88D3-1DD7C53B612E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word2Pdf", "Word2Pdf\Word2Pdf.csproj", "{4186CF4D-7705-45B9-87D2-9803D85ACBBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{BF1CFDBC-6281-4E15-88D3-1DD7C53B612E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF1CFDBC-6281-4E15-88D3-1DD7C53B612E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF1CFDBC-6281-4E15-88D3-1DD7C53B612E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4186CF4D-7705-45B9-87D2-9803D85ACBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4186CF4D-7705-45B9-87D2-9803D85ACBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4186CF4D-7705-45B9-87D2-9803D85ACBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4186CF4D-7705-45B9-87D2-9803D85ACBBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

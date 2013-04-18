@@ -1,4 +1,7 @@
-﻿namespace opening_word_document
+﻿
+//includes Class and methods to POS tag each word in the document
+
+namespace opening_word_document
 {
     public class POSTagger
     {
